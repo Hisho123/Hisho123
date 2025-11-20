@@ -52,14 +52,11 @@
 
 #### Top Repositories
 
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hisho123
-&repo=lotti&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hisho123&repo=https://github.com/Hisho123/razor&theme=buefy" />
 </a>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hisho123
-&repo=razor&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hisho123&repo=lotti&theme=buefy" />
 </a>
 
 ---
