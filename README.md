@@ -39,11 +39,6 @@
 
 <div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Danapaule01&show_icons=true&theme=radical" alt="Hisho123's GitHub stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hisho123&theme=radical&hide_border=true" width="400"/>
-</p>
-
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img alt="Hisho123's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Hisho123&bg_color=000000&color=94b4a4&line=FFFFFF&point=FFFFFF&hide_border=true" />
 </a>
